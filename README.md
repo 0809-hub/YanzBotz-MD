@@ -1,6 +1,8 @@
 # YanzBotz-MD
 Script Base WhatsApp Bot Multi Device
 
+# INI PUNYA YANZBOTZ-MD DI COPY SAMA (saya) FAHRUDIN
+
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
